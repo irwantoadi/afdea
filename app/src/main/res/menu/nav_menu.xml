@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btn_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Beranda"
+        android:visible="true"
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/btn_input"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Notifikasi"
+        android:visible="true"
+        android:checked="false"/>
+    <item
+        android:id="@+id/btn_laporan"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profil"
+        android:visible="true"
+        android:checked="false"/>
+    <item
+        android:id="@+id/btn_setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Setting"
+        android:visible="true"
+        android:checked="false"/>
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AFDEA</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="belum_punya_akun_daftar">Belum punya akun? Daftar</string>
+    <string name="beranda">BERANDA</string>
+    <string name="video_edukasi">VIDEO EDUKASI</string>
+    <string name="menu_edukasi_tuna_wicara">MENU EDUKASI TUNA WICARA</string>
+    <string name="forum">FORUM</string>
+    <string name="podcast">PODCAST</string>
+    <string name="bank_soal">BANK SOAL</string>
+    <string name="pilih_soal">PILIH SOAL</string>
+    <string name="tuna_rungu">TUNA RUNGU</string>
+    <string name="tuna_netra">TUNA NETRA</string>
+</resources>
